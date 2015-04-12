@@ -17,7 +17,7 @@ namespace WebControlNie.Controllers
 
         public ActionResult Security()
         {
-            ViewBag.Message = "照明";
+            ViewBag.Message = "安防";
 
             return View();
         }
